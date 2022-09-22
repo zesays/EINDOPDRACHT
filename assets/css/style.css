@@ -1,0 +1,38 @@
+
+#blok1 
+{ width: 750px;
+  height: 2000px; 
+  background-color: rgb(243, 186, 226);
+  margin-left: 300px;
+ 
+}
+#blok2 
+{ width: 500px;
+  height: 300px; 
+  border: 2px; 
+  background-color: rgb(255, 255, 255);
+  margin-left: 125px;
+  margin-bottom: 100px;
+  margin-top: 50px; 
+}
+
+#blok3
+{ width: 470px;
+  height: 285px; 
+  border: 0px; 
+  background-color: rgb(43, 33, 33);
+  margin-left: 15px;
+}
+
+  h1 {
+    color: rgb(231, 144, 198);
+    text-align: center;
+    font-size: 100px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
